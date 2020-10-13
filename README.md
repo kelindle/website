@@ -1,5 +1,5 @@
 # website
-Self designed work-in-progress website created with CSS, JS, and HTML. Haven't gotten far due to only intermittently working on it but the hope is to have this framework completed and self hosted on my own home machine in the next 10 months
+Self designed work-in-progress (putting it lightly) website created with CSS, JS, and HTML. Haven't gotten far due to only intermittently working on it but the hope is to have this framework completed and self hosted on my own home machine in the next 10 months. The home page is the only page with significant progress
 
 **homePage.html:**
 
